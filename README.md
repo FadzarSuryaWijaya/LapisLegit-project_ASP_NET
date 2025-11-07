@@ -53,7 +53,7 @@ Tutorial konfigurasi Web Service ASP.NET dapat dilihat pada link berikut:</br>
 ![alt](Diagram/AD_Pembayaran.png)
 
 ### **1. Activity Diagram PESAN_KUE**
-![alt](Diagram/AD_PesanKue.drawio.png.png)
+![alt](Diagram/AD_PesanKue.png)
 
 ---
 
