@@ -49,12 +49,12 @@ Tutorial konfigurasi Web Service ASP.NET dapat dilihat pada link berikut:</br>
 
 ## **📈 Business Process (Alur Sistem Pembayaran)**
 
-![alt](diagram/AD_Pembayaran.png)
+![alt](Diagram/AD_Pembayaran.png)
 
 ---
 
 ## **🗄️ Model Data (Database ERD Overview)**
-![alt](diagram/erd.drawio.png)
+![alt](Diagram/erd.drawio.png)
 
 ### **1. Tabel PESAN_KUE**
 
