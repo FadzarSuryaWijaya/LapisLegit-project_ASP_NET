@@ -49,7 +49,11 @@ Tutorial konfigurasi Web Service ASP.NET dapat dilihat pada link berikut:</br>
 
 ## **📈 Business Process (Alur Sistem Pembayaran)**
 
+### **1. Activity Diagram PEMBAYARAN**
 ![alt](Diagram/AD_Pembayaran.png)
+
+### **1. Activity Diagram PESAN_KUE**
+![alt](Diagram/AD_PesanKue.drawio.png.png)
 
 ---
 
@@ -142,21 +146,27 @@ Relasi:
 
 ## **👥 Skema Tim Pengembangan**
 
-| Role                   | Tanggung Jawab                              |
-| ---------------------- | ------------------------------------------- |
-| **Project Manager**    | Pengelolaan timeline, rapat, koordinasi tim |
-| **Business Analyst**   | Menganalisa kebutuhan user dan dokumentasi  |
-| **Backend Developer**  | Pembangunan API & logika sistem             |
-| **Frontend Developer** | UI/UX & tampilan sistem                     |
-| **Database Engineer**  | Desain & optimasi struktur data             |
-| **QA Tester**          | Pengujian aplikasi dan perbaikan bug        |
-| **DevOps (Opsional)**  | Deployment dan server configuration         |
+![alt](Diagram/stuktur-tim.drawio.png)
 
-### Metode Kerja
+| Role / Posisi            | Tanggung Jawab Utama                                                                                       |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| **Project Manager**      | Mengelola timeline, koordinasi tim, komunikasi dengan stakeholder, dan pengawasan kualitas proyek.         |
+| **Business Analyst**     | Melakukan analisis kebutuhan sistem, membuat dokumentasi proses bisnis, dan menjembatani client & tim dev. |
+| **UI/UX Designer**       | Mendesain tampilan antarmuka, alur interaksi pengguna, dan membuat prototipe visual sistem.                |
+| **Backend Developer**    | Mengembangkan API, mengelola database, menjalankan logika bisnis, serta memastikan keamanan sistem.        |
+| **Frontend Developer**   | Membangun tampilan antarmuka pengguna, menghubungkan UI dengan API, serta memastikan responsivitas sistem. |
+| **QA Engineer**          | Melakukan pengujian sistem, memastikan aplikasi berjalan sesuai fungsi, dan mencatat bug untuk diperbaiki. |
+| **DevOps Engineer**      | Mengelola proses deployment, CI/CD, server, dan monitoring performa aplikasi.                              |
+| **System Administrator** | Mengelola hak akses pengguna, konfigurasi sistem, dan perawatan operasional aplikasi.                      |
+| **Client / Stakeholder** | Memberikan kebutuhan sistem, melakukan validasi hasil, serta memberikan feedback pengembangan.             |
 
-* Model kerja: **Agile / Sprint**
-* Meeting harian: **Daily Standup**
-* Evaluasi rutin: **Sprint Review & Retrospective**
+
+### **Metode Kerja**
+
+* Menggunakan pendekatan **Agile (Sprint-based)**.
+* Komunikasi rutin melalui **Daily Standup Meeting**.
+* Evaluasi dilakukan pada **Sprint Review** dan **Retrospective**.
+* Setiap role berkolaborasi dalam lingkup tanggung jawab masing-masing sesuai kebutuhan pengembangan.
 
 ---
 
